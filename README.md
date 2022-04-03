@@ -7,3 +7,4 @@
 # Project Details:
   - Adding Logging and Cashing Implementaion to the Original FoodService Consumer Implementaion to provide multible Implementation without Editing the Original
     Implementation.
+  Applying the requirements using Decorator Design Pattern and Dependency Injection Approach.
