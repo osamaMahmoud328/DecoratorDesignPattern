@@ -1,0 +1,28 @@
+﻿@using DTOs.Results
+@{
+    ViewData["Title"] = "Food Page";
+}
+@model List<FoodItemResponse>
+<div class="row">
+    @if (Model.Any())
+    {
+        @foreach (var foodItem in Model)
+        {
+            <div class="col-6 col-sm-12 col-md-6 col-lg-4 col-xl-4 mh-25 mb-4">
+                <div class="card shadow-sm rounded">
+                    <div class="card-body">
+                        <h5 class="card-title"><b>@foodItem.Name</b></h5>
+                        <p class="card-text">@(foodItem.Name + " " + foodItem.Code)</p>
+                    </div>
+                    <div class="card-footer text-muted">
+                        <span>Number: @foodItem.Number </span>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No coffees available</p>
+    }
+</div>

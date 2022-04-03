@@ -1,0 +1,12 @@
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\bin\Debug\net6.0\DTOs.deps.json
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\bin\Debug\net6.0\DTOs.dll
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\bin\Debug\net6.0\DTOs.pdb
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.csproj.AssemblyReference.cache
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfoInputs.cache
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.cs
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.csproj.CoreCompileInputs.cache
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.dll
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\refint\DTOs.dll
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\DTOs.pdb
+E:\Learning\Patterns\DecoratorDesignPattern\DTOs\obj\Debug\net6.0\ref\DTOs.dll
